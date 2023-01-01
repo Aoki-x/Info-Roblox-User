@@ -7,7 +7,7 @@ pkg install git -y
 
 pkg install python -y
 
-git clone 
+git clone https://github.com/Aoki-x/Info-Roblox-User
 
 cd Info-Roblox-user
 
