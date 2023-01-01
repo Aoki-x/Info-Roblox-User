@@ -10,5 +10,7 @@ pkg install python -y
 git clone 
 
 cd Info-Roblox-user
+
 pip install -r requirements.txt
-python info-roblox.py
+
+python info-user.py
